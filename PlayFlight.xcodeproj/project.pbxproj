@@ -288,7 +288,7 @@
 				TargetAttributes = {
 					9BE02C871BF08EFD005AD272 = {
 						CreatedOnToolsVersion = 6.4;
-						DevelopmentTeam = 9K9659ZH29;
+						DevelopmentTeam = 8WB82XNJG8;
 					};
 					9BE02CA51BF08EFD005AD272 = {
 						CreatedOnToolsVersion = 6.4;
@@ -508,13 +508,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				DEVELOPMENT_TEAM = 9K9659ZH29;
+				DEVELOPMENT_TEAM = 8WB82XNJG8;
 				INFOPLIST_FILE = PlayFlight/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.poker.tiger;
+				PRODUCT_BUNDLE_IDENTIFIER = com.abcd.testing;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "c96f2899-2186-4fc8-ab13-ad079202f2eb";
-				PROVISIONING_PROFILE_SPECIFIER = dev;
+				PROVISIONING_PROFILE_SPECIFIER = testing_dev;
 			};
 			name = Debug;
 		};
@@ -524,13 +524,13 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 9K9659ZH29;
+				DEVELOPMENT_TEAM = 8WB82XNJG8;
 				INFOPLIST_FILE = PlayFlight/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.poker.tiger;
+				PRODUCT_BUNDLE_IDENTIFIER = com.abcd.testing;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "c96f2899-2186-4fc8-ab13-ad079202f2eb";
-				PROVISIONING_PROFILE_SPECIFIER = dev;
+				PROVISIONING_PROFILE_SPECIFIER = testing_dev;
 			};
 			name = Release;
 		};
